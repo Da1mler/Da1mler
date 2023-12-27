@@ -11,7 +11,7 @@ Daimler Development is a community of passionate developers focusing on Discord 
 - **Resources:** Access to valuable resources, tutorials, and code snippets to enhance your skills.
 
 🔗 Connect With Us:
-- **Discord Invite:** [Join Daimler Development]([your-invite-link](https://discord.gg/QFkYUyWY2P))
+- **Discord Invite:** https://discord.gg/QFkYUyWY2P
 
 📣 Note:
 Daimler dev. primarily focused on Discord bot development and Lua scripting for FiveM. Let's learn, share, and grow together in the world of development!
